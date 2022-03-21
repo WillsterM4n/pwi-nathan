@@ -26,3 +26,7 @@ Porem Cyber Segurança e Programação Web me chama atenção hehehe
 ## Alguma mensagem para o eu do futuro?
 
 Seu esforço valeu a pena, pois só você viu o quanto suou para tudo isso.
+
+## Atualização
+
+estou mexendo pelo meu PC pessoal, foi dificil mas acho que consigo subir pro git hub.
