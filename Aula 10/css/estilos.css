@@ -1,0 +1,13 @@
+html {
+    background-image: url(../img/images.jpg);
+    background-position-x: center;
+    display: flex;
+    font-family: consolas;
+    font-size: 25px;
+    text-align: center;
+    color: #f1f1f1;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+}
+    
+    
